@@ -2,7 +2,7 @@
 
 This is a basic news app developed using the Next.js framework and React-Bootstrap. It provides users with real-time trading news, a search feature, and a minimalistic layout for better readability.
 
-![News App](assets/images/newsarticle_placeholder.jpg)
+![News App](assets/images/news_app.png)
 
 ## Features
 
